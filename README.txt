@@ -30,3 +30,4 @@ right bowl is player 1's bowl. To view the conrols or see which which pot is you
 game to bring up or put away the help board that shows you the controls and what bowl is yours.
 
 Credit goes to "http://www.centralconnector.com/GAMES/mancala.html" for the mancala rules.
+[![Run on Repl.it](https://repl.it/badge/github/perezjbryanSchoolWork/Python-Pygame-Mancala-Game)](https://repl.it/github/perezjbryanSchoolWork/Python-Pygame-Mancala-Game)
